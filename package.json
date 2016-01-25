@@ -7,7 +7,7 @@
     "dev": "webpack-dev-server --config build/webpack.config.dev.js --inline --hot --port 8082",
     "build": "NODE_ENV=production webpack --config build/webpack.config.production.js --progress",
     "build-dev": "webpack --config build/webpack.config.dev.js --progress",
-    "serve": "http-server ./demos/dist -o -p 8081 --cors --silent"
+    "serve": "http-server ./dist -o -p 8081 --cors --silent"
   },
   "author": "Laza Bogdan <laza.bogdan@macro-net.ro>",
   "license": "ISC",
