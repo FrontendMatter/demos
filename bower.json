@@ -1,0 +1,9 @@
+{
+  "name": "themekit-demos",
+  "description": "ThemeKit Demos.",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "modernizr": "~2.8.3"
+  }
+}
