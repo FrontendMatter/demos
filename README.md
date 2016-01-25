@@ -1,6 +1,6 @@
 # ThemeKit Demos
 
-> [demos.themekit.io/](http://demos.themekit.io)
+> [demos.themekit.io](http://demos.themekit.io)
 
 ## Build
 
