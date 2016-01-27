@@ -4,6 +4,7 @@ import SidebarUsage from './components/sidebar-usage'
 import SidebarSettings from './components/sidebar-settings'
 import CarouselSettings from './components/carousel-settings'
 import AlertSettings from './components/alert-settings'
+import TabSettings from './components/tab-settings'
 
 // ES6
 export default {
@@ -11,7 +12,8 @@ export default {
 	SidebarUsage,
 	SidebarSettings,
 	CarouselSettings,
-	AlertSettings
+	AlertSettings,
+	TabSettings
 }
 
 // CommonJS
